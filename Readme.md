@@ -1,0 +1,2 @@
+# The-Cochlea-as-Temporal-Anchor-A-Lay-Hypothesis-on-the-Structural-Basis-of-Linear-Time-Perception
+The cochlea may serve as the brain's primary structural anchor for linear time perception, operating through its three-scale geometric architecture beyond acoustic function alone. Disruption of cochlear function would produce cross-modal temporal calibration anomalies; species without coiled cochleae would show measurably different interval timing.
