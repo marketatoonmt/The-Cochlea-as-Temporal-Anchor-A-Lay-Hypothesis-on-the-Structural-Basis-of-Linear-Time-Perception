@@ -4,6 +4,10 @@ The cochlea may serve as the brain's primary structural anchor for linear time p
 
 
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--9770--8032-green)(https://orcid.org/0009-0009-9770-8032)]
+[
+
+![ORCID](https://img.shields.io/badge/ORCID-0009--0009--9770--8032-green)
+
+](https://orcid.org/0009-0009-9770-8032)
 
 [Read the preprint on Zenodo](https://doi.org/10.5281/zenodo.18734672)
